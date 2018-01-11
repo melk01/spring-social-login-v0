@@ -1,0 +1,10 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+target/
+work/
+.idea/
+gs-accessing-facebook.iml
